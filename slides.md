@@ -16,15 +16,15 @@ knit        : slidify::knit2slides
 ### Part 1: Shiny App
 Discover which variables predict miles per gallon (MPG)
 
-*https://pcuci.shinyapps.io/devdataprod-mtcars*
+*https://pcuci.shinyapps.io/devdataprod-mtcars/*
 
 ### Part 2: Reproducible Pitch Presentation  
 
-*http://pcuci.github.io/*
+*http://pcuci.github.io/devdataprod-mtcars/slides.html* (this presentation)
   
 ### Clone the repo
 ```
-git clone https://github.com/pcuci/devdataprod-mtcars.git
+git clone git@github.com:pcuci/devdataprod-mtcars.git
 ```
 
 --- .class #id
