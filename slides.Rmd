@@ -20,7 +20,7 @@ Discover which variables predict miles per gallon (MPG)
 
 ### Part 2: Reproducible Pitch Presentation  
 
-*http://pcuci.github.io/devdataprod-mtcars/slides.html*
+*http://pcuci.github.io/devdataprod-mtcars/slides.html* (this presentation)
   
 ### Clone the repo
 ```
